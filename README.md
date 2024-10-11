@@ -6,3 +6,6 @@ This tutorial mainly focuses on using Git and Git HUb as it's remote.
 This repository is built step by step in the tutorial
 
 It now includes step for Git Hub.
+
+Including how to work with branches on Git Hub.
+
